@@ -1,4 +1,4 @@
-export default function () {
+export default function (action) {
   return [
     {title: "The Count of Monte Cristo"},
     {title: "Blood Meridian"},
